@@ -1,0 +1,8 @@
+User Character:
+  Name: User input
+  Level: Starts at 1
+  Exp: Required to improve level.
+  Health Points(HP): 20 at level 1
+  Energy: 10 at level 1
+  Strength: 1 at level 1
+  Defence: 1 at level 1
